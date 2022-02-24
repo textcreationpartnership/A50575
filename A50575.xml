@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A memento to the East-India Companies, or, An abstract of a remonstrance presented to the House of Commons, by the East-India Company, in the year 1628 with some few animadvertions thereon.</title>
+            <author>East India Company.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50575</idno>
+            <idno type="STC">Wing M1664</idno>
+            <idno type="STC">ESTC R17379</idno>
+            <idno type="EEBO-CITATION">13648165</idno>
+            <idno type="OCLC">ocm 13648165</idno>
+            <idno type="VID">100943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100943)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 795:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A memento to the East-India Companies, or, An abstract of a remonstrance presented to the House of Commons, by the East-India Company, in the year 1628 with some few animadvertions thereon.</title>
+                  <author>East India Company.</author>
+               </titleStmt>
+               <extent>25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100943:1"/>
+            <pb facs="tcp:100943:1" rendition="simple:additions"/>
+            <p>A MEMENTO TO THE <hi>Eaſt-India</hi> COMPANIES. OR, AN <hi>Abſtract</hi> of a <hi>Remonſtrance,</hi> Preſented to the <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons,</hi> by the <hi>Eaſt-India</hi> Com<g ref="char:EOLhyphen"/>pany, in the Year 1628.</p>
+            <p>With ſome few Animadvertions THEREON.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:100943:2"/>
+            <pb facs="tcp:100943:2"/>
+            <head>AN ABSTRACT OF A Remonſtrance, Preſented to the <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons,</hi> by the <hi>Eaſt-India</hi> Compa<g ref="char:EOLhyphen"/>ny, in the Year 1628: With ſome few <hi>Animadvertions</hi> thereon.</head>
+            <div type="part">
+               <head>Remonſtrance.</head>
+               <p>Page 2. <hi>THE Trade to the</hi> Eaſt Indies <hi>ſome few Years paſt did employ fifteen thouſand Tuns of Shipping; according to the preſent times there is and may be employ'd ten thouſand Tuns of warlike Shipping, be<g ref="char:EOLhyphen"/>ſides three thouſand Tuns more, now here repairing for the next ſupply of thoſe Voyages.</hi>
+               </p>
+               <pb n="4" facs="tcp:100943:3"/>
+               <p>
+                  <hi>The ſaid Shipping do employ</hi> 2500 <hi>Mariners, whereof one third part at leaſt are ſhipped from hence Land-men, who are made good Mari<g ref="char:EOLhyphen"/>ners by theſe Voyages,</hi> page 2.</p>
+               <p>
+                  <hi>This Trade, as it is great in it ſelf, ſo doth it yet farther enlarge our Traf<g ref="char:EOLhyphen"/>fick and Strength, by furniſhing this Kingdom with all ſorts of</hi> Indian <hi>Wares, not only for our own uſe, but more eſpecially for the neceſſary wants of Foreign Nations, which hath much increaſed the number of our Warlike Ships to Export them from hence.</hi>
+               </p>
+               <p>
+                  <hi>For Proof whereof we inſtance the laſt Year when we brought in Pepper from</hi> Indies <hi>to the value of two hun<g ref="char:EOLhyphen"/>dred and eighty thouſand Pounds Sterling, whereof one hundred and eighty thouſand pounds was within few Weeks ſhipped off; the like is done with</hi> Indico <hi>and</hi> Callicoes, <hi>and other rich Wares, inſomuch that we may boldly affirm, that by theſe Exportati<g ref="char:EOLhyphen"/>ons
+<pb n="5" facs="tcp:100943:3"/>of</hi> India <hi>Commodities for divers Parts, we do employ, going and com<g ref="char:EOLhyphen"/>ing, in thoſe Voyages, at leaſt</hi> 2000 <hi>Tuns of ſhipping, which do require</hi> 500 <hi>Mariners to Man them.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Animadvertion.</head>
+               <p>But our Traders now, inſtead of ſupplying Foreign Nations with theſe <hi>India</hi> Wares they fur<g ref="char:EOLhyphen"/>niſh more eſpecially, our own Na<g ref="char:EOLhyphen"/>tion with them, to be conſumed at Home, which muſt prove a quite contrary effect than in thoſe days; And that they may the bet<g ref="char:EOLhyphen"/>ter encourage the Home-conſump<g ref="char:EOLhyphen"/>tion of theſe <hi>India</hi> Wares, they have ſent ſeveral Artiſts thither with Patterns and Colours, that they may the better pleaſe our Hu<g ref="char:EOLhyphen"/>mor and Fancies.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:100943:4"/>
+               <head>Remonſtrance.</head>
+               <p>[Page 8.] <hi>The remoteſt Traffick is always moſt beneficial to the Pub<g ref="char:EOLhyphen"/>lick Stock; the Example may be thus, Suppoſe that Pepper were worth here</hi> 2 <hi>s. a pound, if we ſhould fetch the ſame from</hi> Holland, <hi>the Mer<g ref="char:EOLhyphen"/>chant may pay</hi> 20 <hi>pence the pound out of the Kingdoms Stock, and gain well by the Bargain; but if he fetch Pepper from the</hi> Eaſt-Indies <hi>he can<g ref="char:EOLhyphen"/>not give there above</hi> 5 <hi>Pence the Pound at the moſt, which doth ſuffi<g ref="char:EOLhyphen"/>ciently ſhew the great advantage we have to buy our Wares in thoſe re<g ref="char:EOLhyphen"/>mote Countries, not only for that part alone which we ſpend, but eſpeci<g ref="char:EOLhyphen"/>ally for that great quantity which from hence we Tranſport yearly in<g ref="char:EOLhyphen"/>to other Countries, to be ſold at high<g ref="char:EOLhyphen"/>er Prices than it is worth here in</hi> England; <hi>and a farther Benefit by Sale of our Tin, Cloath, Lead, and
+<pb n="7" facs="tcp:100943:4"/>other native Commodities, the Vent whereof doth daily increaſe in thoſe Countries, which formerly had no uſe of our Wares.</hi>
+               </p>
+               <p>[Page 9.] <hi>It is manifeſt, when we brought</hi> Indico <hi>from</hi> Turkey, <hi>that ſort was ordinarily ſold for</hi> 6 <hi>s. the pound, or more, which now we ſell for</hi> 4 <hi>s. Pepper then ordinarily at</hi> 3 <hi>s. and</hi> 4 <hi>d. the pound, which now is ſold for by the</hi> Eaſt India <hi>Com<g ref="char:EOLhyphen"/>pany for twenty pence; but for Cloves, they are now worth</hi> 11 <hi>s. the pound, Mace in ſorts</hi> 10 <hi>s. Nutmegs</hi> 5 <hi>s. the pound, becauſe the</hi> Hollanders, <hi>by the expulſion of our People, do keep us by force from the Trade of thoſe Spices; in which Wares, when we en<g ref="char:EOLhyphen"/>joy'd the freedom of that Trade in the</hi> Indies, <hi>we ſold Cloves here at</hi> 5 <hi>s.</hi> 6 <hi>d. Nutmegs at</hi> 2 <hi>s.</hi> 6 <hi>d. the pound.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:100943:5"/>
+               <head>Animadvertion.</head>
+               <p>Seeing that the great advantage we have to buy our Wares in thoſe remote Countries, is eſpeci<g ref="char:EOLhyphen"/>ally for that great quantity which from hence is tranſported into other Countrys to be ſold at an higher Price than it is worth here, and not for that which is con<g ref="char:EOLhyphen"/>ſumed at home; If then we would make this Trade beneficial as in thoſe days, the ſame Method muſt be obſerved, which is, <hi>to conſume little at home, and export much.</hi>
+               </p>
+               <p>And a further Benefit did ac<g ref="char:EOLhyphen"/>crew by the Sale of our Tin, Cloth and Lead, which then did in<g ref="char:EOLhyphen"/>creaſe, but now <hi>Silver</hi> is the chief Commodity which they ſend thi<g ref="char:EOLhyphen"/>ther, which is, as it were, the Vitals of the Commonwealth, for as the wiſe Man ſaith, <hi>it anſwers all
+<pb n="9" facs="tcp:100943:5"/>things:</hi> What a Prejudice is it then for them to ſend out of the Na<g ref="char:EOLhyphen"/>tion that which <hi>anſwers all things,</hi> to have in Return that which evident<g ref="char:EOLhyphen"/>ly proves the deſtruction of our <hi>own</hi> Manufactures, and impoveriſhing the Nation?</p>
+            </div>
+            <div type="part">
+               <head>Remonſtrance.</head>
+               <p>[Page 10.] <hi>The next Quaery con<g ref="char:EOLhyphen"/>cerns the Kingdom nearly; for it is no ſmall work to improve the Price of Lands, which never hath, nor can be done but by the proſperous ſucceſs of our. Foreign Trade, the Ballance whereof is the only means and rule of our Treaſure; that is to ſay, when either by iſſuing out of the Realm yearly a greater value in Wares than we conſume in foreign Commodities, we grow rich: Or by ſpending more of ſtrangers Goods than we ſell them of our own, we are impoveriſhed: For the first of theſe courſes doth bring in the Money that we have,
+<pb n="10" facs="tcp:100943:6"/>the laſt will carry it away again when we have got it; if we exceed our means by exceſs in Foreign Wares, or maintain a War by Sea or Land, where we do not feed and clothe the Souldiers, and ſupply the Armies with our native Proviſions, by which diſorders our Treaſure will ſoon be exhausted.</hi>
+               </p>
+               <p>[Page 13.] <hi>The buſineſs then is briefly thus, that as the Treaſure which is brought into the Realm by the ballance of our Foreign Trade, is, that Money which only doth abide with us, and by which we are in<g ref="char:EOLhyphen"/>richt; ſo by this plenty of Money thus gotten (and no otherwiſe) do our Lands improve; for when the Merchant has a good Diſpatch be<g ref="char:EOLhyphen"/>yond the Seas for his Cloth, and others our native Wares, he doth preſently return to buy greater quan<g ref="char:EOLhyphen"/>tity, which raiſeth the price of</hi> Wooll <hi>and other Commodities, which doth
+<pb n="11" facs="tcp:100943:6"/>improve the Landlords Rents as the Leaſes expire.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Animadvertion.</head>
+               <p>If it concerns the Kingdom near<g ref="char:EOLhyphen"/>ly, and that it is no ſmall work to improve the Price of our Lands, and that it cannot be done but by the proſperous Succeſs of our Foreign Trade, and that the Bal<g ref="char:EOLhyphen"/>lance is the only Means and Rule of our Treaſure, <hi>&amp;c.</hi> It concerns the Kingdom highly to keep the Ballance on the Kingdoms ſide, eſ<g ref="char:EOLhyphen"/>pecially in this Trade, which is ſo great; for the greater the Trade is, the greater the Miſchief, when the Ballance is on the other ſide, as it is now in the <hi>Eaſt-India</hi> Trade, and has been ſo for many Years; For when the Ballance is on the Kingdoms ſide it brings in Treaſure, and improves the price of our Lands, and when the Bal<g ref="char:EOLhyphen"/>lance
+<pb n="12" facs="tcp:100943:7"/>is on the other ſide it has the contrary effect.</p>
+               <p>By this Argument it is plain, that the Landed-Men will ſuffer by this Trade, as well as the Manufactu<g ref="char:EOLhyphen"/>rers, tho not ſo ſoon; but as in Common Prudence, when ones Neighbour's Houſe is on Fire, all Endeavours are uſed by the Neigh<g ref="char:EOLhyphen"/>bourhood to quench it, not only for their Neighbour's good, but alſo to preſerve themſelves; ſo that it is the Intereſt of Landed-Men, as well as Manufacturers, to en<g ref="char:EOLhyphen"/>deavour to put a ſtop to the evil in that Trade, and to turn the Scales on the Kingdoms ſide, ac<g ref="char:EOLhyphen"/>cording to the Principles of the <hi>Eaſt-India</hi> Company when they made this <hi>Remonſtrance,</hi> which was to make our Exportation great, of all ſorts of Commodi<g ref="char:EOLhyphen"/>ries, and the home-Conſumption little of Foreign.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:100943:7"/>
+               <head>Remonſtrance.</head>
+               <p>[Page 14.] <hi>In the courſe of Fo<g ref="char:EOLhyphen"/>reign Trade there be three ſorts or degrees of Gain.</hi>
+               </p>
+               <p>
+                  <hi>The Firſt is that of the Common<g ref="char:EOLhyphen"/>wealth, which may be done when the Merchant, who is the principal agent therein, ſhall loſe.</hi>
+               </p>
+               <p>
+                  <hi>The Second is, the Gain of the Merchant, which he doth ſometimes juſtly, and worthily effect, altho the Commonwealth be a loſer.</hi>
+               </p>
+               <p>
+                  <hi>The Third is, the Gain of the King, whereof he is ever certain, even when the Commonwealth and the Merchant ſhall be both loſers.</hi>
+               </p>
+               <p>[Page 15.] <hi>Suppoſe the Company ſhould ſend out</hi> one hundred thou<g ref="char:EOLhyphen"/>ſand pounds <hi>in Wares or Money, into</hi> India, <hi>and receive home for the ſame</hi> three hundred thouſand pounds, <hi>it is evident that this part
+<pb n="14" facs="tcp:100943:8"/>of the Publick Stock is tribled, and yet we may boldly ſay the Company loſeth, if the Return be in Bulky Com<g ref="char:EOLhyphen"/>modities, as</hi> Saltpetre, Cotton-Yarn, Indico, Callicoe, &amp;c. <hi>the Cuſtoms and Charges will amount to</hi> two hundred thouſand pounds.</p>
+               <p>[Page 16.] <hi>A Second ſort of Gain in the courſe of Trade is, when the Merchant by his laudable endeavours, may both bring in and carry out Wares to his advantage, by buying and ſelling them to good Profit, which is the end of his labour, yet never<g ref="char:EOLhyphen"/>theleſs the Commonwealth ſhall de<g ref="char:EOLhyphen"/>cline and grow poor, by a diſorder in the People, when through Pride, and Exceſſes, they do conſume more Foreign Wares in value than the Wealth of the Kingdom can ſatisfie and pay by the Exportatian of our own Commodities, which is the very quality of a Spendthrift who ſpends beyonds his Means.</hi>
+               </p>
+               <pb n="15" facs="tcp:100943:8"/>
+               <p>
+                  <hi>The Third Gain is the King's, who is ever ſure to get by Trade, when both the Commonwealth and Merchant ſhall looſe ſeverally or jointly, as it may and doth ſome<g ref="char:EOLhyphen"/>times happen when the Merchants Succeſs is bad; and our Commodi<g ref="char:EOLhyphen"/>ties are over-ballanced by Foreign Wares conſumed; but if ſuch diſor<g ref="char:EOLhyphen"/>ders be not prevented, His Maje<g ref="char:EOLhyphen"/>ſty, in the end, ſhall be the greater loſer, when His Subjects ſhall be im<g ref="char:EOLhyphen"/>poveriſhed.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Animadvertion.</head>
+               <p>Theſe Three ſorts of Gain can<g ref="char:EOLhyphen"/>not long continue, or at leaſt ought not; for as to the firſt, if the Commonwealth gains and the Mer<g ref="char:EOLhyphen"/>chant loſeth, the Merchant will take care to put a ſtop to that Trade, by leaving it, for ſelf-pre<g ref="char:EOLhyphen"/>ſervation ſake.</p>
+               <pb n="16" facs="tcp:100943:9"/>
+               <p>As to the Second, When the Commonwealth looſeth, there is the greateſt Miſchief, and likeſt to continue, becauſe the Merchant, who is the Agent is the Gainer, and the Commonwealth which is the looſer, is paſſive, and cannot ſo ſoon hinder the Miſchief growing upon it as could be wiſh'd; becauſe it muſt be done by holeſome Laws (which requires time) to repair the Breach made by theſe ſelfiſh Traders, and to keep Trade in its true Courſe, that the Commonwealth may be no looſer, which is highly reaſonable to be done, it being no more than the prudent Trader doth of himſelf, when he finds he's a looſer, he leaves it, and follows a<g ref="char:EOLhyphen"/>nother.</p>
+               <p>As to the Third ſort of Gain, its ſureſt and laſting foundation muſt be that which brings Gain to all: In Muſick, when all parts agree,
+<pb n="17" facs="tcp:100943:9"/>there is a ſweet Melody, but if not, then Jars and Diſcord.</p>
+            </div>
+            <div type="part">
+               <head>Remonſtrance.</head>
+               <p>
+                  <hi>We will take that for granted which no body will deny us, that we have no other means to get Treaſure but by Foreign Trade, for Mines we have none which do afford it; and how this Money is gotten in the manag<g ref="char:EOLhyphen"/>ing of the ſaid Trade, we have al<g ref="char:EOLhyphen"/>ready ſhew'd, That it is done by mak<g ref="char:EOLhyphen"/>ing our Commodities which are ex<g ref="char:EOLhyphen"/>ported to over-ballance in Value the Foreign Wares which we conſume.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Animadvertion.</head>
+               <p>If we have no other Means to get Treaſure but by Foreign Trade, and that it muſt be done by making our Commodities which are ex<g ref="char:EOLhyphen"/>ported,
+<pb n="18" facs="tcp:100943:10"/>to exceed in value the Fo<g ref="char:EOLhyphen"/>reign Wares which we conſume: So that if upon Examination of the <hi>East-India</hi> Trade, as it is now managed, it ſhall appear, that we conſume more of theſe Foreign Wares than is exported of our own, (which is the quality of a Spend<g ref="char:EOLhyphen"/>thrift, who ſpends beyond his Means) the Manager thereof ought to be brought to their Primitive Principles, and grant the requeſt the <hi>Company</hi> then made to the <hi>Houſe of Commons,</hi> in the Prayer of their Pe<g ref="char:EOLhyphen"/>tition, which was, <hi>That if it was not a beneficial Trade to the Nation, it might be ſuppreſs'd.</hi>
+               </p>
+               <p>So that it doth appear by what has been ſaid, That the <hi>Eaſt-India Company</hi> in its Primitive Time, did ſhew, <hi>That the Benefit of this Trade did conſiſt only in its greater Expor<g ref="char:EOLhyphen"/>tation in value of our own Wares than in the conſumption of Foreign.</hi>
+               </p>
+               <pb n="19" facs="tcp:100943:10"/>
+               <p>Now that the <hi>Eaſt-India</hi> Traders do export leſs in value of our Wares than is conſum'd here of theirs, is obvious to all that know any thing of that Trade, and was plainly made to appear before the laſt Parliament, when the <hi>Commons</hi> paſſed a Bill for the <hi>reſtraining the conſumption of part of thoſe</hi> India <hi>Wares,</hi> and the <hi>Lords</hi> thought there was too little reſtrain<g ref="char:EOLhyphen"/>ed, as appears by the Amendments made by their Lordſhips to the ſaid Bill.</p>
+               <p>There is another Miſchief that doth attend this Trade, and that is the great Number of our People that are diſabled of following their Trades, and are become a wandring People, ſome about the Streets for Relief, ſome to Sea, and ſome to other Countries to ſeek their For<g ref="char:EOLhyphen"/>tunes: For it is evident, that by ſo much as is conſumed of theſe Fo<g ref="char:EOLhyphen"/>reign Wares, by ſo much our own
+<pb n="20" facs="tcp:100943:11"/>are leſſened, and conſequently the Manufacturers are brought into great Streights: What a Reproach would it be to this Nation, to ſee great Numbers reduced to Begga<g ref="char:EOLhyphen"/>ry, or to leave their Native Coun<g ref="char:EOLhyphen"/>try, to ſatisfie the Luxury of ſome that act as if they were made only for themſelves?</p>
+               <p>I well remember the Saying of ſome Strangers formerly, who ſaid, <hi>That if a Man could not get a Livelihood in</hi> England, <hi>he could get it no where,</hi> ſo fully employ'd were our Manufactures in thoſe Days; but now quite contrary, becauſe of the vaſt Importation and Conſumption of thoſe Fo<g ref="char:EOLhyphen"/>reign Wrought Silks, <hi>&amp;c.</hi> but eſ<g ref="char:EOLhyphen"/>pecially thoſe from <hi>China,</hi> which has been Imported but of late Years in ſuch great Quantities, in<g ref="char:EOLhyphen"/>ſomuch that they have thereby ſo clogg'd the Market, that a very
+<pb n="21" facs="tcp:100943:11"/>great quantity have remain'd un<g ref="char:EOLhyphen"/>ſold at the Companies laſt Sale; and by conſequence, there can be no Trade for the <hi>Weavers</hi> while the <hi>Companies</hi> Magazines are ſtored, becauſe they cannot work at ſuch Rates as in <hi>India,</hi> where they can live for One Penny a day.</p>
+               <p>This Miſchief will not only fall upon the Silk Manufacture, but our own Staple Manufacture of Wooll, which the Farmers that have Wooll on their hands feel, and is not like to end there, but muſt needs fall heavy upon Landlords, and a Multitude of Poor that are, and may be employ'd in that Manufacture.</p>
+               <p>The Silk manufactured in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is generally the Returns of our Woollen from <hi>Turkey</hi> and <hi>Ita<g ref="char:EOLhyphen"/>ly,</hi> but more eſpecially from <hi>Turkey,</hi> from whence we have Raw-Silk,
+<pb n="22" facs="tcp:100943:12"/>Grogram-Yarn, and Dy-Stuff, by which are employ'd not only great number of Weavers and Dyers, but alſo many Throwſters, who, as well as the Weavers, employ Men, Women and Children, from the Age of Six Years and up<g ref="char:EOLhyphen"/>wards; ſo that a Child from Six Years to Eleven, can get from eigh<g ref="char:EOLhyphen"/>teen Pence to Three Shillings a Week; Beſides many Thouſands of Seamens Wives, who are us'd to get a Livelihood in Winding of Silk at Home, whilſt their Husbands are abroad at Sea, and ſo main<g ref="char:EOLhyphen"/>tain their Families; whereas other<g ref="char:EOLhyphen"/>wiſe they muſt go upon Tick, or beg, or borrow, until their Huſ<g ref="char:EOLhyphen"/>bands return; and then his Pay muſt go to quit Scores, and have nothing left for their other Neceſſa<g ref="char:EOLhyphen"/>ries.</p>
+               <p>But if the <hi>Turkey</hi> Merchant finds no Vend for his Silk and Yarn,
+<pb n="23" facs="tcp:100943:12"/>which is the Returns for his Cloths, he will ſend no more, and then the Clothier feels the ſmart, and when he cannot ſell his Cloth he'll buy no Wooll, and then the Far<g ref="char:EOLhyphen"/>mer feels it, and when the Farmer cannot turn his Wooll into Mo<g ref="char:EOLhyphen"/>ney he cannot pay his Rent, and then the Landlord has his feeling-part with the reſt: So as in the natural Body, when one Member is wounded, it affects the whole Bo<g ref="char:EOLhyphen"/>dy, ſo in the Body Politique, when the manufacturing part (which is ſo eſſential a part) is wounded, it muſt needs affect the whole Body the more.</p>
+               <p>But ſome will ſay, <hi>Trade muſt be free, and not diſturb'd:</hi> We grant it, and ſo it muſt ſo long as it is kept in its right Channel: What can be more free than the Sea and the Rivers, whom none can con<g ref="char:EOLhyphen"/>troul, yet the Creator has ſet bounds
+<pb n="24" facs="tcp:100943:13"/>to the proud Ocean, ſaying, <hi>ſo far ſhalt thou go, and no farther;</hi> yet it is ſtill free in its Courſe; ſo like<g ref="char:EOLhyphen"/>wiſe, the People of <hi>England, tho' they have Laws to govern them, which are the Boundaries of a People, yet not<g ref="char:EOLhyphen"/>withſtanding they are a Free People;</hi> So we may ſay of Trade, that it is never the leſs free for its being kept in its right courſe by holeſome Laws, than the Sea is by the Shore, or the River by its Banks; for thoſe things may be ſaid to be free, that are not interrupted in their true courſe for which they were made: Now it is manifeſt that Trade was made for the Good of Mankind, and Benefit of the Publick, and ſo far as it con<g ref="char:EOLhyphen"/>duceth to thoſe ends, it ought to be free and uncontroul'd; but as Trade cannot be carried on of it ſelf, but by ſome Agent, which is Mankind, who for the generality are byaſs'd, and more ſelfiſh than Publick Spirited, and ſo turns its Courſe out of the
+<pb n="25" facs="tcp:100943:13"/>right Channel; like a Flood of Wa<g ref="char:EOLhyphen"/>ters that overflows or breaks its Banks, and brings a Deluge of Mi<g ref="char:EOLhyphen"/>ſeries with it, whilſt they fill their Coffers in fiſhing in troubled Wa<g ref="char:EOLhyphen"/>ters.</p>
+               <p>So as the Sea and the Rivers are bounded that they may be kept in their free courſe for the benefit of the reſt of the Creation: Even ſo ought there to be Bounds to Trade, that it may be kept in the true and free courſe for which it was made.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
